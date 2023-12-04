@@ -14,7 +14,7 @@ export default async function Home() {
   return (
     <div className="flex flex-col items-center justify-center bg-[#FFC0CB]">
       <head>
-        <meta property="og:image" content="/assets/img7.jpg" />
+        <meta property="og:image" content="/assets/banner.jpg" />
         <meta property="og:image:height" content="600" />
         <meta property="og:image:width" content="800" />
       </head>
@@ -23,7 +23,7 @@ export default async function Home() {
       <Banner />
       <Foreword />
       <WeddingEvent />
-      <Timeline />
+      {/* <Timeline /> */}
       <Memory />
       {/* <BankAccount /> */}
       {/* <AttendForm /> */}

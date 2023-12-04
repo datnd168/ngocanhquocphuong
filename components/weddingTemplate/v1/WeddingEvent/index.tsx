@@ -41,7 +41,7 @@ export default function WeddingEvent() {
                   THỜI GIAN
                 </div>
                 <div className="text-sm font-semibold leading-relaxed text-dark-red">
-                  <p>10:00</p>
+                  <p>15:00</p>
                   <p>{configs.txtTimeWeddingWife}</p>
                 </div>
               </div>
@@ -72,7 +72,7 @@ export default function WeddingEvent() {
                   THỜI GIAN
                 </div>
                 <div className="text-sm font-semibold leading-relaxed text-dark-red">
-                  <p>15:00</p>
+                  <p>10:00</p>
                   <p>{configs.txtTimeWeddingHusband}</p>
                 </div>
               </div>
