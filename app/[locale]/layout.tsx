@@ -16,6 +16,7 @@ export const metadata: Metadata = {
   //   "Precedent is the all-in-one solution for your Next.js project. It includes a design system, authentication, analytics, and more.",
   metadataBase: new URL("https://ngocanhquocphuong.vercel.app/"),
   themeColor: "#FFF",
+  icons: "https://ngocanhquocphuong.vercel.app/",
 };
 
 export default async function RootLayout({
