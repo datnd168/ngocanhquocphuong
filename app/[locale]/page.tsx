@@ -16,7 +16,7 @@ export default async function Home() {
       <head>
         <meta
           property="og:image"
-          content="https://ngocanhquocphuong.vercel.app/assets/banner.jpg"
+          content="https://tuart.net/wp-content/uploads/2019/01/336037788_734741505101636_6721544058110807048_n-683x1024.jpg"
         />
         <meta property="og:image:height" content="600" />
         <meta property="og:image:width" content="800" />
