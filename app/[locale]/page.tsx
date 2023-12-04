@@ -14,7 +14,6 @@ export default async function Home() {
   return (
     <div className="flex flex-col items-center justify-center bg-[#FFC0CB]">
       <head>
-        <meta property="og:image" content="/assets/banner.jpg" />
         <meta
           property="og:image"
           content="https://ngocanhquocphuong.vercel.app/assets/banner.jpg"
