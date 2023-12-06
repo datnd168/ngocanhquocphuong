@@ -13,15 +13,22 @@ import FloatingMusic from "@/components/audio";
 export default async function Home() {
   return (
     <div className="flex flex-col items-center justify-center bg-[#FFC0CB]">
-      <head>
+      {/* <head>
         <meta
           property="og:image"
           content="https://ngocanhquocphuong.vercel.app/assets/img9.jpg"
         />
         <meta property="og:image:height" content="600" />
         <meta property="og:image:width" content="800" />
-      </head>
-
+      </head> */}
+      <Head>
+        <meta
+          property="og:image"
+          content="https://ngocanhquocphuong.vercel.app/assets/img9.jpg"
+        />
+        <meta property="og:image:height" content="600" />
+        <meta property="og:image:width" content="800" />
+      </Head>
       <Nav />
       <Banner />
       <Foreword />
