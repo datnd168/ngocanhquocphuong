@@ -16,7 +16,7 @@ export default async function Home() {
       <head>
         <meta
           property="og:image"
-          content="https://drive.google.com/file/d/1d8Bczu4wKMr4htgech110uHHubOM8_9j/view?usp=drive_link"
+          content="https://drive.google.com/uc?export=download&id=1d8Bczu4wKMr4htgech110uHHubOM8_9j"
         />
         <meta property="og:image:height" content="600" />
         <meta property="og:image:width" content="800" />
