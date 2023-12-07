@@ -16,7 +16,7 @@ export default async function Home() {
       <head>
         <meta
           property="og:image"
-          content="https://github.com/datnd168/ngocanhquocphuong/blob/main/public/assets/img9.jpg"
+          content="https://ngocanhquocphuong_wd.vercel.app/assets/img9.jpg"
         />
         <meta property="og:image:height" content="600" />
         <meta property="og:image:width" content="800" />
