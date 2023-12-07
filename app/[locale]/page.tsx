@@ -16,11 +16,11 @@ export default async function Home() {
       <head>
         <meta
           property="og:image"
-          content="https://ngocanhquocphuong.vercel.app/assets/img9.jpg"
+          content="http://daongthachthat.vn/wp-content/uploads/2023/12/img9-scaled.jpg"
         />
         <meta
           property="image"
-          content="https://ngocanhquocphuong.vercel.app/assets/img9.jpg"
+          content="http://daongthachthat.vn/wp-content/uploads/2023/12/img9-scaled.jpg"
         />
         <meta property="og:image:height" content="600" />
         <meta property="og:image:width" content="800" />
