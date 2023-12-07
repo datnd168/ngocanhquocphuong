@@ -18,6 +18,10 @@ export default async function Home() {
           property="og:image"
           content="https://ngocanhquocphuong.vercel.app/assets/img9.jpg"
         />
+        <meta
+          property="image"
+          content="https://ngocanhquocphuong.vercel.app/assets/img9.jpg"
+        />
         <meta property="og:image:height" content="600" />
         <meta property="og:image:width" content="800" />
       </head>
