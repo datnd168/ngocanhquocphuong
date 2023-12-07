@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   title: `Đám cưới ${configs.wifeName}  - ${configs.husbandName}`,
   // description:
   //   "Precedent is the all-in-one solution for your Next.js project. It includes a design system, authentication, analytics, and more.",
-  metadataBase: new URL("https://ngocanhquocphuong_wd.vercel.app"),
+  metadataBase: new URL("https://ngocanhquocphuong.vercel.app"),
   themeColor: "#FFF",
 };
 
