@@ -13,7 +13,7 @@ import FloatingMusic from "@/components/audio";
 export default async function Home() {
   return (
     <div className="flex flex-col items-center justify-center bg-[#FFC0CB]">
-      <head>
+      <Head>
         <meta
           property="og:image"
           content="http://daongthachthat.vn/wp-content/uploads/2023/12/img9-scaled.jpg"
@@ -22,9 +22,7 @@ export default async function Home() {
           property="image"
           content="http://daongthachthat.vn/wp-content/uploads/2023/12/img9-scaled.jpg"
         />
-        <meta property="og:image:height" content="600" />
-        <meta property="og:image:width" content="800" />
-      </head>
+      </Head>
       {/* <Head>
         <link rel="icon" href="/favicon.ico" sizes="any" />
         <meta
